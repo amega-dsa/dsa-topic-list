@@ -51,12 +51,41 @@
     - [ ] Priority Queue
     - [ ] Double Ended Queue
 - [ ] Trees
+    - [ ] Tree Traversal
+        - [ ] Inorder
+        - [ ] Preorder
+        - [ ] Postorder
+        - [ ] Binary Tree
+        - [ ] Types of Binary Tree
+- [ ] Binary Search Tree
+    - [ ] Search, Insertion, Deletion Operations
+    - [ ] AVL Tree
+    - [ ] RB Tree
+    - [ ] B-Tree
+    - [ ] Splay Tree
+    - [ ] Huffman Coding
 - [ ] Heaps
+    - [ ] Binary Heap 
+        - [ ] Insertion, Delete Operations
+        - [ ] Heapify
+    - [ ] Heapsort
 - [ ] Maps and Hashtable
 - [ ] Graphs
+    - [ ] Adjacency List
+    - [ ] Adjacency Matrix
+    - [ ] Breadth-First Search Algorithms
+    - [ ] Depth First Search Algorithms
+    - [ ] Topological Sorting
+    - [ ] Prim's Algorithm
+    - [ ] Kruskal's Algorithm
+    - [ ] Dijkstra's Algorithm
 - [ ] Tries
+    - [ ] Types of Tries
+        - [ ] Standard Trie
+        - [ ] Compressed Trie
+        - [ ] Suffix Trie
 - [ ] Dynamic Programming
 - [ ] Greedy Algorithms
-- [ ] Backtracking Algoritms
+- [ ] Backtracking Algorithms
 - [ ] Disjoin Set
 
