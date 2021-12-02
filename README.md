@@ -7,6 +7,7 @@
 - [ ] Bitwise operators
 - [ ] Matrix
 - [ ] Maths
+- [ ] Strings
 - [ ] Time Complexity and Space Complexity
 - [ ] Searching
 - [ ] Sorting
