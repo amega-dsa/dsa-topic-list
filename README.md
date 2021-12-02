@@ -1,20 +1,55 @@
 # dsa-topic-list 
 
-
 - [ ] Arrays
-- [ ] Pointers
+    - [ ] Multidimensional Arrays
+    - [ ] Pass-by-Value and Pass-by-Reference
+    - [ ] Dynamic Memory Allocation
 - [ ] Functions
-- [ ] Bitwise operators
-- [ ] Matrix
+    - [ ] Pointer with Functions
 - [ ] Maths
+    - [ ] Bitwise Operator
+    - [ ] Bit Manipulation
+    - [ ] Prime Numbers Algorithms
+    - [ ] Square Root Algorithms
+    - [ ] HCF and LCM Algorithms
+    - [ ] Euclidan Algorithms
+- [ ] Matries
 - [ ] Strings
 - [ ] Time Complexity and Space Complexity
+    - [ ] Asymptotic notation
+    - [ ] Time Complexity Calulation
+    - [ ] Understanind Best, Worst and Average Cases
 - [ ] Searching
+    - [ ] Linear Search
+    - [ ] Binary Search
+    - [ ] Ternary Search
 - [ ] Sorting
+    - [ ] Bubble Sort
+    - [ ] Selection Sort
+    - [ ] Insertion Sort
+    - [ ] Merge Sort
+    - [ ] Quick Sort
+    - [ ] Counting Sort
+    - [ ] Radix Sort
+    - [ ] Bucket Sort
 - [ ] Recursion
-- [ ] Stack
-- [ ] Queue
 - [ ] Linked List
+    - [ ] Insertion, Deletion, Traversal Operations
+    - [ ] Searching Operations
+    - [ ] Doubly Linked List
+    - [ ] Circular Linked List
+- [ ] Stack
+    - [ ] Push and Pop Operations
+    - [ ] Stack using Array
+    - [ ] Stack using Linked List
+- [ ] Queue
+    - [ ] Enque and Deque Operations
+    - [ ] Queue using Array
+    - [ ] Queue using Linked List
+    - [ ] Stack Using Queue
+    - [ ] Circular Queue
+    - [ ] Priority Queue
+    - [ ] Double Ended Queue
 - [ ] Trees
 - [ ] Heaps
 - [ ] Maps and Hashtable
